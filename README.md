@@ -1,6 +1,6 @@
 # CleanWindows
 
-A collection of tools for optimizing Windows performance by removing unnecessary components, adjusting system settings, and clearing clutter. **Note:** Use with caution, as improper use may affect system stability. Make sure to back up your system before applying any of these scripts or registry changes.
+Tools to optimize Windows by removing bloatware, adjusting settings, and cleaning clutter. Back up your system before use to avoid potential stability issues.
 
 ## Contents
 
