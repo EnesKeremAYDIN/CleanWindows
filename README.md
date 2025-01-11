@@ -39,7 +39,7 @@ Tools to optimize Windows by removing bloatware, adjusting settings, and cleanin
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/CleanWindows.git
+   git clone https://github.com/EnesKeremAYDIN/CleanWindows.git
    cd CleanWindows
    ```
 
